@@ -1,0 +1,11 @@
+C:\Users\HP\OneDrive\Desktop\Use Debugger\ProductMaintenance\ProductMaintenance\bin\Debug\ProductMaintenance.exe.config
+C:\Users\HP\OneDrive\Desktop\Use Debugger\ProductMaintenance\ProductMaintenance\bin\Debug\ProductMaintenance.exe
+C:\Users\HP\OneDrive\Desktop\Use Debugger\ProductMaintenance\ProductMaintenance\bin\Debug\ProductMaintenance.pdb
+C:\Users\HP\OneDrive\Desktop\Use Debugger\ProductMaintenance\ProductMaintenance\obj\Debug\ProductMaintenance.csproj.AssemblyReference.cache
+C:\Users\HP\OneDrive\Desktop\Use Debugger\ProductMaintenance\ProductMaintenance\obj\Debug\ProductMaintenance.Form1.resources
+C:\Users\HP\OneDrive\Desktop\Use Debugger\ProductMaintenance\ProductMaintenance\obj\Debug\ProductMaintenance.Properties.Resources.resources
+C:\Users\HP\OneDrive\Desktop\Use Debugger\ProductMaintenance\ProductMaintenance\obj\Debug\ProductMaintenance.csproj.GenerateResource.cache
+C:\Users\HP\OneDrive\Desktop\Use Debugger\ProductMaintenance\ProductMaintenance\obj\Debug\ProductMaintenance.csproj.CoreCompileInputs.cache
+C:\Users\HP\OneDrive\Desktop\Use Debugger\ProductMaintenance\ProductMaintenance\obj\Debug\ProductMaintenance.exe
+C:\Users\HP\OneDrive\Desktop\Use Debugger\ProductMaintenance\ProductMaintenance\obj\Debug\ProductMaintenance.pdb
+C:\Users\HP\OneDrive\Desktop\Use Debugger\ProductMaintenance\ProductMaintenance\obj\Debug\ProductMaintenance.frmDefaults.resources
